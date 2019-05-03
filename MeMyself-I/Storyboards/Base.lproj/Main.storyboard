@@ -19,7 +19,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="“You make millions of decisions that mean nothing, and then one day your order takes out and it changes your life.”" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kOd-6G-LqC">
-                                <rect key="frame" x="22" y="352" width="926" height="83"/>
+                                <rect key="frame" x="22" y="352" width="334" height="83"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="334" id="1Wy-pg-zeA"/>
                                     <constraint firstAttribute="height" constant="83" id="FjW-Jg-GwL"/>
@@ -36,7 +36,7 @@
                                 </constraints>
                             </imageView>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hUD-RD-Lv4">
-                                <rect key="frame" x="803" y="492" width="103" height="36"/>
+                                <rect key="frame" x="244" y="492" width="70" height="36"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="36" id="dve-PN-IUN"/>
                                     <constraint firstAttribute="width" constant="103" id="eMr-YO-T22"/>
@@ -48,7 +48,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="L9x-NI-cdT">
-                                <rect key="frame" x="66" y="492" width="662" height="36"/>
+                                <rect key="frame" x="66" y="492" width="103" height="36"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="36" id="Y1D-em-Vnh"/>
                                     <constraint firstAttribute="width" constant="103" id="tVZ-db-jTf"/>
